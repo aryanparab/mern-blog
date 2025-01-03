@@ -52,7 +52,7 @@ export default function SignUp() {
          Blog
         </Link>
         <p className='text-sm mt-5'>
-        This is a demo project. You an signup with youe email and password or with google
+        This is a demo project. You can signup with youe email and password or with google
         </p>
         </div>
 
